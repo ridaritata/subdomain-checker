@@ -1,4 +1,3 @@
-# subdomain-checker
 # ⚡ Subdomains & Live Host Checker
 
 A high-speed, asynchronous Python CLI tool designed for security researchers and penetration testers to quickly verify active subdomains and check their HTTP response status codes.
